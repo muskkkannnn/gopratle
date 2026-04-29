@@ -1,5 +1,7 @@
 # GoPratle Design & Frontend Assignment
-The GoPratle booking flow designed in Figma AND built with Next.js.
+The GoPratle booking flow was designed in Figma AND built with Next.js.
+
+[Click here to view this project's design on Figma 👈](https://your-project.vercel.app)
 
 ## Run locally
 
